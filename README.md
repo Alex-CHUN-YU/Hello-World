@@ -1,3 +1,3 @@
 # Hello-World
 Just another repository
-Hello ~ My name is Alex~ wmmks lab
+This is a easy test!
